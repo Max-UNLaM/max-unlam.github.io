@@ -9,6 +9,12 @@
 
 Para ejecutar localmente, es necesario ruby y jekyll:
 
+Para instalar ruby:
+
+https://rvm.io/
+
+Para instalar jekyll:
+
 ```shell
 
 cd docs
